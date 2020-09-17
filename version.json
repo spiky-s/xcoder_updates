@@ -1,6 +1,6 @@
 {
 "stable": 
-  {"version":"1337","url":"https://github.com/MasterDevX/XCoder/releases/download/v1.1.3/XCoder-v1.1.3.zip"},
+  {"version":"1.1.3","url":"https://github.com/MasterDevX/XCoder/releases/download/v1.1.3/XCoder-v1.1.3.zip"},
 "beta":
-  {"version":"2.0.1-prerelease","url":"https://github.com/MasterDevX/XCoder/releases/download/v2.0.1-prerelease/XCoder_v2.0.1-prerelease.zip","latest_stable_v":"1.1.3"}
+  {"version":"2.0.2-prerelease","url":"https://github.com/MasterDevX/XCoder/releases/download/v2.0.1-prerelease/XCoder_v2.0.1-prerelease.zip","latest_stable_v":"1.1.3"}
 }
