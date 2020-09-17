@@ -3,12 +3,12 @@
   {"version":"1.1.3","url":"https://github.com/MasterDevX/XCoder/releases/download/v1.1.3/XCoder-v1.1.3.zip",
    "changelog":{
      "en":"- Implemented Clash Royale SC decompilation [BETA]\n- Updated DB for Brawl Stars v18.104",
-     "ru":"- Введена декомпиляция SC из Clash Royale [БЕТА]\n- Обновлена БД для Brawl Stars v18.104",
+     "ru":"- Введена декомпиляция SC из Clash Royale [БЕТА]\n- Обновлена БД для Brawl Stars v18.104"
   }},
 "beta":
   {"version":"2.0.2-prerelease","url":"https://github.com/MasterDevX/XCoder/releases/download/v2.0.1-prerelease/XCoder_v2.0.1-prerelease.zip","latest_stable_v":"1.1.3",
    "changelog":{
      "en":"- Fixed error when unpacking texture compressed in XCoder",
-     "ru":"- Исправлена ошибка при декодировании текстуры, собранной в XCoder",
+     "ru":"- Исправлена ошибка при декодировании текстуры, собранной в XCoder"
   }}
 }
